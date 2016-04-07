@@ -1,0 +1,13 @@
+.idea
+.pack
+vars
+target/
+project/target/
+project/project/target/
+log
+old/
+doc/
+data/
+*.DS_Store*
+spark-cassandra-connector-java-assembly-1.4.0-M1-SNAPSHOT.jar
+*.iml
